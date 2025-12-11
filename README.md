@@ -183,7 +183,7 @@ associated with sales changes.
 
 ---
 
-## 7. Polynomial vs Spline Fits (Week 6)
+## 7. Polynomial vs Spline Fits 
 
 For one selected store:
 
@@ -214,3 +214,10 @@ pip install numpy pandas matplotlib seaborn
 pip install scikit-learn pmdarima prophet xgboost shap
 pip install tensorflow  # or tensorflow-macos if on Apple Silicon
 pip install scipy
+```
+---
+
+## How to run
+```bash
+python walmart_forecasting.py
+```
